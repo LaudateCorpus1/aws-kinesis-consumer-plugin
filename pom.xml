@@ -39,7 +39,7 @@
         <amazon.glue.version>1.0.0</amazon.glue.version>
         <com.amazon.aws-java-sdk-core.version>1.12.57</com.amazon.aws-java-sdk-core.version>
         <netty.nio.client.version>2.15.32</netty.nio.client.version>
-        <netty.all.version>4.1.51.Final</netty.all.version>
+        <netty.all.version>4.1.89.Final</netty.all.version>
         <reactive.stream.version>1.0.3</reactive.stream.version>
         <httpcore.version>4.4.13</httpcore.version>
         <commons.validator.version>1.6</commons.validator.version>
